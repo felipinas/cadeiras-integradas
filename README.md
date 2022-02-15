@@ -4,6 +4,6 @@ Repositório com as entregas de tais disciplinas: Gestão de Processos de Negóc
 
 ## Equipe
 
-| [Augusto Miranda](https://github.com/Agso7) | [Gustavo Pinho](https://github.com/gustavopsm) | [João Felipe](https://github.com/felipinas) | [Letícia Prado](https://github.com/leticiapcb) |
+| [Letícia Prado](https://github.com/leticiapcb) | [Augusto Miranda](https://github.com/Agso7) | [Gustavo Pinho](https://github.com/gustavopsm) | [João Felipe](https://github.com/felipinas) |
 |:---------------------:|:------------------:|:----------------:|:--------------------:|
-|--|--|--|GP|
+|GP|--|--|--|
