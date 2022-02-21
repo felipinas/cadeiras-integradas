@@ -7,16 +7,17 @@
 
 * A equipe irá se **reunir com o cliente** para alinhamento e compartilhando de ideias todas as quartas às 7h30, pelo Discord da disciplina de SGE.
 
-* Como forma de acompanhamento do progresso das atividades desenvolvidas por cada membro, **iremos usar o Miro** e seu quadro Kanban, visto que já usamos para outras atividades do projeto, simplificando e centralizando o conteúdo.
-    * [Link para o quadro Kanban no Miro]()
+* Como forma de acompanhamento do progresso das atividades desenvolvidas por cada membro, **iremos usar o Notion** e seu quadro Kanban, visto que já usamos para documentar alguns detalhes do projeto.
+    * [Link para o Notion](https://lean-food-ca1.notion.site/Projeto-4-Per-odo-871322159ccc4798a0b9d3e7f87c9fbb)
 
 * Por fim, a equipe tentará o máximo **validar com o cliente** cada etapa importante, deixando o cliente ciente do andamento do projeto.
 
-## Ferramentas de Comunicação
+## Ferramentas de comunicação e acompanhamento
 
 * Whatsapp: Comunicação informal e interna da equipe.
 * Discord: Reuniões e comunicação com o cliente e entre a equipe.
 * Google Meet: Reuniões com o cliente e entre a equipe.
 * Gmail: Comunicação com cliente e orientadores.
-* Miro: Kanban para gerenciamento de prazos e atividades, além da realização de outras entregas do projeto.
+* Miro: Usado para desenvolver certas entregas, como boards e mindmaps.
 * Github: Depósito dos artefatos entregues.
+* Notion: Documentação do projeto e gerenciamento das atividades de cada membro.
