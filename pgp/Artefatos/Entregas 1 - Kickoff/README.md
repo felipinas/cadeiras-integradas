@@ -1,4 +1,4 @@
-# Artefatos do Kickoff
+# Artefatos do Kickoff - PGP
 
 * [Termo de abertura de projeto](https://github.com/felipinas/cadeiras-integradas/blob/main/pgp/Artefatos/Entregas%201%20-%20Kickoff/Termo%20de%20abertura%20de%20Projeto%20-%20CEUA.pdf)
 * [Slides da apresentação](https://github.com/felipinas/cadeiras-integradas/blob/main/pgp/Artefatos/Entregas%201%20-%20Kickoff/Apresenta%C3%A7%C3%A3o%20-%20Kickoff.pdf)
