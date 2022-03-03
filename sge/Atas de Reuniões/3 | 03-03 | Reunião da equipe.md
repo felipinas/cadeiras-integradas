@@ -2,23 +2,30 @@
 
 | Data | Local |
 |:---:|:---:|
-| 22/02/2022 | Discord |
+| 03/03/2022 | Meet |
 
 # Participantes
 
 * Letícia Prado (GP)
 * Augusto Miranda
+* Gustavo Pinho
 * João Felipe
-* Marlos Ribeiro (Cliente)
 
-# Reunião com o cliente - Entendimento do problema e validação da solução
+# Reunião da equipe - Discussão para identificar os FCSs do projeto.
 
 ### Tópicos discutidos
 
-* Funcionamento do fluxo atual no CEUA
-    * Qual setor ou departamento do CEUA?
-    * Qual a demanda mensal do CEUA?
-    * Quantos projetos recebe em média?
+* Fatores críticos de sucesso para o projeto
+    * Reengenharia do processo
+    * Educação e treinamento no sistema
+    * Etapas claras e bem documentadas
+    * Entre outros
 
-* Validação da solução com o cliente
-    * Feedback positivo sobre o entendimento do problema
+* Como garantir tais fatores
+    * Importância da participação e validação do cliente
+    * Entender melhor o processo
+    * Promover uma implantação do sistema mais segura e tranquila
+    * Entre outros
+
+* Próximos passos
+    * Mapeamento e gerenciamento dos Stakeholders do projeto
