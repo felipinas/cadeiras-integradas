@@ -1,4 +1,4 @@
-# Artefatos do Kickoff - PGP
+# Artefatos do Kickoff - GPN
 
 * [Slides da apresentação](https://github.com/felipinas/cadeiras-integradas/blob/main/gpn/Artefatos/Entregas%201%20-%20Kickoff/Apresenta%C3%A7%C3%A3o%20-%20Kickoff.pdf)
 * [Matriz SIPOC](https://github.com/felipinas/cadeiras-integradas/blob/main/gpn/Artefatos/Entregas%201%20-%20Kickoff/Matriz%20SIPOC.pdf)
