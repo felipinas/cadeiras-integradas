@@ -24,6 +24,6 @@
 * Influências positivas e positivas de cada Stakeholder
 * Grau de poder e interesse
 * Por fim, a atitude do time em relação a cada Stakeholder
-    * Monitoras as necessidades (Usuários)
+    * Monitorar as necessidades (Usuários)
     * Requisitar informação, validando etapas (Cliente real)
     * Entre outras
