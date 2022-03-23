@@ -12,7 +12,7 @@
 * João Felipe
 * Marlos Ribeiro (Cliente)
 
-# Reunião da equipe - Discussão para tirar dúvidas e validar BPMN.
+# Reunião com o cliente - Discussão para tirar dúvidas e validar BPMN.
 
 ### Tópicos discutidos
 

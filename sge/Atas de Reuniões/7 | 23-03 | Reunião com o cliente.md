@@ -11,7 +11,7 @@
 * João Felipe
 * Marlos Ribeiro (Cliente)
 
-# Reunião da equipe - Discussão com cliente para validação e tirar dúvidas.
+# Reunião com o cliente - Discussão com cliente para validação e tirar dúvidas.
 
 ### Tópicos discutidos
 
