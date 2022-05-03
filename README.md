@@ -8,10 +8,15 @@ Repositório com as entregas de tais disciplinas: Gestão de Processos de Negóc
 |:---------------------:|:------------------:|:----------------:|:--------------------:|
 |GP/Scrum Master | Product Owner | Desenvolvedor de artefatos | Desenvolvedor de artefatos |
 
-
 ## Principais entregas
 
 - [x] Kickoff - 22/02
 - [x] 1º Status Report - 15/03
 - [x] 2º Status Report - 12/04
 - [ ] Apresentação Final
+
+## Notion do projeto
+
+```Informações como: Kanban, Sprints, divisão das tarefas, links importantes e slides.```
+
+[Link](https://lean-food-ca1.notion.site/Projeto-4-Per-odo-871322159ccc4798a0b9d3e7f87c9fbb)
