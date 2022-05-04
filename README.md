@@ -13,7 +13,7 @@ Repositório com as entregas de tais disciplinas: Gestão de Processos de Negóc
 - [x] Kickoff - 22/02
 - [x] 1º Status Report - 15/03
 - [x] 2º Status Report - 12/04
-- [ ] Apresentação Final
+- [x] Apresentação Final - 03/05
 
 ## Notion do projeto
 
